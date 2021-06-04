@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 import java.util.*;
 
 public class CoinCombinations1 {
